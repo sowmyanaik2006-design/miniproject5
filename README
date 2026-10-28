@@ -1,0 +1,4 @@
+MINI PROJECT 5
+WITH THE HELP OF  DOCKER CONTAINER AND STREAMLIT PREDICT THE HOUSE PRICE
+train_model.py ->creates sample house data
+app.py -> creates simple web application(here we can predict the house price)
